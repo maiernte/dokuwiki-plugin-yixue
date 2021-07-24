@@ -1,0 +1,7 @@
+base   yixue
+author Goldentianya
+email  goldedntianyan@gmail.com
+date   2021-07-23
+name   Yixue plugin
+desc   Enables MathJax parsing of TeX math expressions and Yixue Form in wiki pages
+url    https://github.com/maiernte/yixuepackage
