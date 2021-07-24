@@ -11,6 +11,8 @@ or MathJax parsing of TeX math expressions, it depends on Plugin
 Please refer to https://www.dokuwiki.org/plugins for additional info
 on how to install plugins in DokuWiki.
 
+More infomation about yixue syntax see https://maiernte.gitee.io/huahedocument/chapter6/libapi.html
+
 ----
 Copyright (C) Goldentianya <goldentianya@gmail.com>
 
